@@ -11,8 +11,12 @@
             "id": "900d18cdedd25fde",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "cpe-45/Homework-1.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "cpe-45/Homework-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "cpe-45/Homework-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "cpe-45/Homework-1.md"
+              }
             }
           },
           {
@@ -134,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 339.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,5 +156,13 @@
     }
   },
   "active": "900d18cdedd25fde",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "cpe-45/hw1-answer-sheet.md",
+    "cpe-45/Homework-1.md",
+    "Pasted image 20240922175734.png",
+    "cpe-47/Program Concept.md",
+    "cpe-49/cpe-49.md",
+    "cpe-49/CED-OLIS.md",
+    "cpe-53/cpe-53.md"
+  ]
 }

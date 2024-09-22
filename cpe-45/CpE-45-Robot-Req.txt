@@ -1,0 +1,21 @@
+CPE 45 Robot Requirements
+
+Materials for Fire Bot: Robot that fights with Fire
+
+Arduino Uno R3
+H-Bridge Module
+DC Brushed Motor
+Servo Motor
+Flame Sensor Module x2
+Water Sprayer
+    - container should be flat
+    - as small as possible
+    - nozzle should be straight
+Infrared IR Proximity Sensor Module x2
+18650 Lithium Batteries x2
+18650 Lithium Batteries Container that holds 2 Batteries
+Jumper Wires:
+    - Male-Male
+    - Female-Female
+    - Male-Female
+Smart Robot Platform with Wheels

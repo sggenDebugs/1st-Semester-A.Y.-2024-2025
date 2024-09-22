@@ -1,0 +1,4 @@
+1. College of Engineering and Design Online Library Management System (CED-OLMS)
+2. College of Engineering and Design Library Information System (CED-LIS)
+3. College of Engineering and Deisgn Library Management and Information System (CED-LMIS)
+4. College of Engineering and Design Online Library Information System (CED-OLIS)

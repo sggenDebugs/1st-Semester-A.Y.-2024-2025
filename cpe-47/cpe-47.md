@@ -1,1 +1,2 @@
 [[System Buses]]
+[[Internal Memory]]

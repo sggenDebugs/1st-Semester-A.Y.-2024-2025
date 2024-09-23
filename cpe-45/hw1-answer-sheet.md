@@ -5,7 +5,7 @@
 5. Arduino sketches are actually written in C++ but a lot of the complexity has been abstracted so that you mainly will be responsible for two blocks of code: **setup and loop**. The setup code executes once at startup and is used to initialize the system. On the other hand, the loop continuously runs forever until it is interrupted.
 6. _A sketch is the name that Arduino uses for a program_. It's the unit of code that is uploaded to and run on an Arduino board.
 7. The Arduino Integrated Development Environment - or Arduino Software (IDE) - contains a text editor for writing code, a message area, a text console, a toolbar with buttons for common functions and a series of menus. It connects to the Arduino hardware to upload programs and communicate with them.
-8. ![[Pasted image 20240922175734.png]]
+8. ![[arduino uno r3.png]]
 ```
 9. 
 

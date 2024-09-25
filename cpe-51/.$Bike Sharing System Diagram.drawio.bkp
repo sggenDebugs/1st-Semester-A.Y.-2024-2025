@@ -1,0 +1,65 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.162 Electron/32.1.2 Safari/537.36" version="24.7.8">
+  <diagram name="Page-1" id="WxPb5rl1i4_D-ZI9Svyz">
+    <mxGraphModel dx="724" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="M08fmjbN8xa0wJ7wa65Q-1" value="Application Software" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="125" y="110" width="235" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="M08fmjbN8xa0wJ7wa65Q-3" value="API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="M08fmjbN8xa0wJ7wa65Q-1">
+          <mxGeometry x="140" y="40" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M08fmjbN8xa0wJ7wa65Q-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="M08fmjbN8xa0wJ7wa65Q-1" source="M08fmjbN8xa0wJ7wa65Q-4" target="M08fmjbN8xa0wJ7wa65Q-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M08fmjbN8xa0wJ7wa65Q-4" value="Bike Rent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="M08fmjbN8xa0wJ7wa65Q-1">
+          <mxGeometry x="25" y="40" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M08fmjbN8xa0wJ7wa65Q-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="M08fmjbN8xa0wJ7wa65Q-1" source="M08fmjbN8xa0wJ7wa65Q-8" target="M08fmjbN8xa0wJ7wa65Q-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M08fmjbN8xa0wJ7wa65Q-8" value="GPS Map" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="M08fmjbN8xa0wJ7wa65Q-1">
+          <mxGeometry x="25" y="100" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M08fmjbN8xa0wJ7wa65Q-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="M08fmjbN8xa0wJ7wa65Q-1" source="M08fmjbN8xa0wJ7wa65Q-10" target="M08fmjbN8xa0wJ7wa65Q-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M08fmjbN8xa0wJ7wa65Q-10" value="Bike Database" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="M08fmjbN8xa0wJ7wa65Q-1">
+          <mxGeometry x="140" y="160" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M08fmjbN8xa0wJ7wa65Q-2" value="Bike Lock System" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="470" y="110" width="235" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="M08fmjbN8xa0wJ7wa65Q-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="M08fmjbN8xa0wJ7wa65Q-2" source="M08fmjbN8xa0wJ7wa65Q-12" target="M08fmjbN8xa0wJ7wa65Q-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M08fmjbN8xa0wJ7wa65Q-12" value="Sensor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="M08fmjbN8xa0wJ7wa65Q-2">
+          <mxGeometry x="30" y="40" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M08fmjbN8xa0wJ7wa65Q-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="M08fmjbN8xa0wJ7wa65Q-2" source="M08fmjbN8xa0wJ7wa65Q-13" target="M08fmjbN8xa0wJ7wa65Q-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M08fmjbN8xa0wJ7wa65Q-13" value="Lock" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="M08fmjbN8xa0wJ7wa65Q-2">
+          <mxGeometry x="140" y="40" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M08fmjbN8xa0wJ7wa65Q-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="M08fmjbN8xa0wJ7wa65Q-2" source="M08fmjbN8xa0wJ7wa65Q-16" target="M08fmjbN8xa0wJ7wa65Q-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M08fmjbN8xa0wJ7wa65Q-16" value="GPS Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="M08fmjbN8xa0wJ7wa65Q-2">
+          <mxGeometry x="30" y="150" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M08fmjbN8xa0wJ7wa65Q-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M08fmjbN8xa0wJ7wa65Q-3" target="M08fmjbN8xa0wJ7wa65Q-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M08fmjbN8xa0wJ7wa65Q-6" value="Connects" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="M08fmjbN8xa0wJ7wa65Q-5">
+          <mxGeometry x="-0.1419" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

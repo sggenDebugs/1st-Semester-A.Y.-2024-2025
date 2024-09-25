@@ -4,29 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cf12e350b9ba9a96",
+        "id": "87a7170f1ea0ec73",
         "type": "tabs",
         "children": [
           {
-            "id": "f78f6b5c4fe7e502",
+            "id": "2b4f17a81426900c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cpe-47/Multicore Computer Structure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66f80f7960797922",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "cpe-47/Pasted image 20240926002714.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cpe-47/Multicore Computer Structure.md",
+                "file": "cpe-47/Cache Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cpe-47/Multicore Computer Structure.md",
+                "file": "cpe-47/Cache Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cpe-47/Multicore Computer Structure.md"
+                "file": "cpe-47/Cache Memory.md"
               }
             }
           },
@@ -147,7 +133,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -164,15 +151,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a80d875d76c8744",
+  "active": "5d363d43da7ff46e",
   "lastOpenFiles": [
+    "cpe-47/cachemem.drawio.png",
+    "cpe-51/cachemem.drawio",
     "cpe-47/Structure.md",
+    "cpe-47/Cache Memory.md",
+    "cpe-47/Pasted image 20240926002714.png",
+    "Pasted image 20240926005058.png",
     "cpe-47/Multicore Computer Structure.md",
     "cpe-47/CPU.md",
     "cpe-47/Structures and Functions.md",
     "cpe-47/Function.md",
     "cpe-47/IBM System 370 Architecture.md",
-    "cpe-47/Pasted image 20240926002714.png",
     "cpe-47/Architecture & Organization.md",
     "cpe-47/Introduction.md",
     "cpe-47/cpe-47.md",
@@ -197,7 +188,6 @@
     "chs-2/jesus-v-caesar/JESUS VS. CAESAR- CHAPTER1-3/68-69.png",
     "chs-2/jesus-v-caesar/JESUS VS. CAESAR- CHAPTER1-3/66-67.png",
     "chs-2/jesus-v-caesar/JESUS VS. CAESAR- CHAPTER1-3/64-65.png",
-    "chs-2/jesus-v-caesar/JESUS VS. CAESAR- CHAPTER1-3/62-63.png",
     "chs-2/jesus-v-caesar/JESUS VS. CAESAR- CHAPTER1-3",
     "chs-2/jesus-v-caesar/JESUS VS. CAESAR- CHAPTER1-3-20240920T081742Z-001.zip",
     "chs-2/jesus-v-caesar",
@@ -208,9 +198,6 @@
     "cpe-45/cpe-45.md",
     "cpe-51/suggested-titles.md",
     "cpe-45/Firebot.md",
-    "cpe-45/firerobot-arduino.drawio.pdf",
-    "cpe-45/hw1-answer-sheet.md",
-    "cpe-45/Homework-1.md",
-    "cpe-49/cpe-49.md"
+    "cpe-45/hw1-answer-sheet.md"
   ]
 }

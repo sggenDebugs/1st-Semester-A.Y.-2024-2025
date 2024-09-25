@@ -1,0 +1,4 @@
+- introduced in 1970
+- upgradable to more expensive, faster model without having to abandon original software
+- New models are introduced with improved technology, but retain the same architecture so that the customer’s software investment is protected
+- still surviving to this day

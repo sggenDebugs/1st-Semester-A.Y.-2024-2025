@@ -8,14 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "85c7d5528340a965",
+            "id": "f78f6b5c4fe7e502",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cpe-51/A review of bicycle-sharing service planning problems.md",
+                "file": "cpe-47/Multicore Computer Structure.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "66f80f7960797922",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "cpe-47/Pasted image 20240926002714.png"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cpe-51/A review of bicycle-sharing service planning problems.md",
+                "file": "cpe-47/Multicore Computer Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cpe-51/A review of bicycle-sharing service planning problems.md",
+                "file": "cpe-47/Multicore Computer Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cpe-51/A review of bicycle-sharing service planning problems.md"
+                "file": "cpe-47/Multicore Computer Structure.md"
               }
             }
           },
@@ -137,8 +147,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,32 +166,51 @@
   },
   "active": "4a80d875d76c8744",
   "lastOpenFiles": [
+    "cpe-47/Structure.md",
+    "cpe-47/Multicore Computer Structure.md",
+    "cpe-47/CPU.md",
+    "cpe-47/Structures and Functions.md",
+    "cpe-47/Function.md",
+    "cpe-47/IBM System 370 Architecture.md",
+    "cpe-47/Pasted image 20240926002714.png",
+    "cpe-47/Architecture & Organization.md",
+    "cpe-47/Introduction.md",
+    "cpe-47/cpe-47.md",
+    "cpe-47/Memory Hierarchy.md",
+    "cpe-47/Program Concept.md",
+    "cpe-47/System Buses.md",
+    "IBM System/370 Architecture.md",
+    "IBM System",
+    "cpe-47/Internal Memory.md",
+    "cpe-51/A review of bicycle-sharing service planning problems.md",
+    "test",
+    "cpe-53/linear combination of signals.pdf",
     "cpe-51/The last mile matters Impact of dockless bike-sharing services on traffic congestion.md",
     "cpe-51/Bike Sharing System Diagram.drawio.png",
     "cpe-51/Bike Sharing System Diagram.drawio",
+    "cpe-45/arduino.drawio",
+    "cpe-45/arduino-diagram.png",
+    "cpe-45/arduino uno r3.png",
+    "cpe-45/About Arduino Uno R3.md",
+    "chs-2/jesus-v-caesar/JESUS VS. CAESAR- CHAPTER1-3/72.png",
+    "chs-2/jesus-v-caesar/JESUS VS. CAESAR- CHAPTER1-3/70-71.png",
+    "chs-2/jesus-v-caesar/JESUS VS. CAESAR- CHAPTER1-3/68-69.png",
+    "chs-2/jesus-v-caesar/JESUS VS. CAESAR- CHAPTER1-3/66-67.png",
+    "chs-2/jesus-v-caesar/JESUS VS. CAESAR- CHAPTER1-3/64-65.png",
+    "chs-2/jesus-v-caesar/JESUS VS. CAESAR- CHAPTER1-3/62-63.png",
+    "chs-2/jesus-v-caesar/JESUS VS. CAESAR- CHAPTER1-3",
+    "chs-2/jesus-v-caesar/JESUS VS. CAESAR- CHAPTER1-3-20240920T081742Z-001.zip",
+    "chs-2/jesus-v-caesar",
     "cpe-51/bike-share-system.md",
     "cpe-51/cpe-51.md",
-    "cpe-51/A review of bicycle-sharing service planning problems.md",
     "chs-2/Jesus vs. Caesar.md",
     "cpe-53/dsp.pdf",
-    "cpe-47/Memory Hierarchy.md",
-    "cpe-47/Internal Memory.md",
-    "cpe-47/cpe-47.md",
-    "cpe-45/About Arduino Uno R3.md",
     "cpe-45/cpe-45.md",
     "cpe-51/suggested-titles.md",
-    "cpe-45/Binary Counter!.jpg",
     "cpe-45/Firebot.md",
     "cpe-45/firerobot-arduino.drawio.pdf",
-    "cpe-45/firerobot-arduino.drawio.png",
     "cpe-45/hw1-answer-sheet.md",
     "cpe-45/Homework-1.md",
-    "cpe-45/arduino uno r3.png",
-    "cpe-45/arduino-diagram.png",
-    "cpe-45/arduino.drawio",
-    "cpe-47/Program Concept.md",
-    "cpe-49/cpe-49.md",
-    "cpe-49/CED-OLIS.md",
-    "cpe-53/cpe-53.md"
+    "cpe-49/cpe-49.md"
   ]
 }

@@ -11,8 +11,13 @@
             "id": "2b4f17a81426900c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "chs-2/Jesus vs. Caesar.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cpe-47/Cache Memory.md",
+                "file": "chs-2/Jesus vs. Caesar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cpe-47/Cache Memory.md",
+                "file": "chs-2/Jesus vs. Caesar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cpe-47/Cache Memory.md"
+                "file": "chs-2/Jesus vs. Caesar.md"
               }
             }
           },
@@ -138,7 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 327.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,11 +153,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "5d363d43da7ff46e",
+  "active": "2b4f17a81426900c",
   "lastOpenFiles": [
+    "chs-2/jesus-v-caesar/JESUS VS. CAESAR- CHAPTER1-3/14-15.jpg",
+    "chs-2/Jesus vs. Caesar.md",
+    "chs-2/chs-2.md",
+    "cpe-53/even and odd signal.md",
+    "cpe-53/cpe-53.md",
+    "cpe-53/linear combination of signals.pdf",
+    "cpe-53/cpe-53-init-notes.md",
+    "cpe-47/Architecture & Organization.md",
+    "cpe-47/IBM System 370 Architecture.md",
+    "cpe-47/Introduction.md",
+    "cpe-47/William Stallings - Computer Organization and Architecture Designing for Performance (8th Edition).pdf",
+    "cpe-45/hw1-answer-sheet.md",
+    "cpe-47/cpe-47.md",
     "cpe-47/cachemem.drawio.png",
     "cpe-51/cachemem.drawio",
     "cpe-47/Structure.md",
@@ -163,10 +182,6 @@
     "cpe-47/CPU.md",
     "cpe-47/Structures and Functions.md",
     "cpe-47/Function.md",
-    "cpe-47/IBM System 370 Architecture.md",
-    "cpe-47/Architecture & Organization.md",
-    "cpe-47/Introduction.md",
-    "cpe-47/cpe-47.md",
     "cpe-47/Memory Hierarchy.md",
     "cpe-47/Program Concept.md",
     "cpe-47/System Buses.md",
@@ -175,7 +190,6 @@
     "cpe-47/Internal Memory.md",
     "cpe-51/A review of bicycle-sharing service planning problems.md",
     "test",
-    "cpe-53/linear combination of signals.pdf",
     "cpe-51/The last mile matters Impact of dockless bike-sharing services on traffic congestion.md",
     "cpe-51/Bike Sharing System Diagram.drawio.png",
     "cpe-51/Bike Sharing System Diagram.drawio",
@@ -186,18 +200,9 @@
     "chs-2/jesus-v-caesar/JESUS VS. CAESAR- CHAPTER1-3/72.png",
     "chs-2/jesus-v-caesar/JESUS VS. CAESAR- CHAPTER1-3/70-71.png",
     "chs-2/jesus-v-caesar/JESUS VS. CAESAR- CHAPTER1-3/68-69.png",
-    "chs-2/jesus-v-caesar/JESUS VS. CAESAR- CHAPTER1-3/66-67.png",
-    "chs-2/jesus-v-caesar/JESUS VS. CAESAR- CHAPTER1-3/64-65.png",
     "chs-2/jesus-v-caesar/JESUS VS. CAESAR- CHAPTER1-3",
     "chs-2/jesus-v-caesar/JESUS VS. CAESAR- CHAPTER1-3-20240920T081742Z-001.zip",
     "chs-2/jesus-v-caesar",
-    "cpe-51/bike-share-system.md",
-    "cpe-51/cpe-51.md",
-    "chs-2/Jesus vs. Caesar.md",
-    "cpe-53/dsp.pdf",
-    "cpe-45/cpe-45.md",
-    "cpe-51/suggested-titles.md",
-    "cpe-45/Firebot.md",
-    "cpe-45/hw1-answer-sheet.md"
+    "cpe-51/bike-share-system.md"
   ]
 }

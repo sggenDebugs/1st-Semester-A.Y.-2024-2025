@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chs-2/Jesus vs. Caesar.md",
+                "file": "cpe-47/External Memory.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chs-2/Jesus vs. Caesar.md",
+                "file": "cpe-47/External Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chs-2/Jesus vs. Caesar.md",
+                "file": "cpe-47/External Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chs-2/Jesus vs. Caesar.md"
+                "file": "cpe-47/External Memory.md"
               }
             }
           },
@@ -159,8 +159,11 @@
   },
   "active": "2b4f17a81426900c",
   "lastOpenFiles": [
-    "chs-2/jesus-v-caesar/JESUS VS. CAESAR- CHAPTER1-3/14-15.jpg",
+    "cpe-47/cpe-47.md",
+    "cpe-47/External Memory.md",
+    "cpe-47/Internal Memory.md",
     "chs-2/Jesus vs. Caesar.md",
+    "chs-2/jesus-v-caesar/JESUS VS. CAESAR- CHAPTER1-3/14-15.jpg",
     "chs-2/chs-2.md",
     "cpe-53/even and odd signal.md",
     "cpe-53/cpe-53.md",
@@ -171,7 +174,6 @@
     "cpe-47/Introduction.md",
     "cpe-47/William Stallings - Computer Organization and Architecture Designing for Performance (8th Edition).pdf",
     "cpe-45/hw1-answer-sheet.md",
-    "cpe-47/cpe-47.md",
     "cpe-47/cachemem.drawio.png",
     "cpe-51/cachemem.drawio",
     "cpe-47/Structure.md",
@@ -187,7 +189,6 @@
     "cpe-47/System Buses.md",
     "IBM System/370 Architecture.md",
     "IBM System",
-    "cpe-47/Internal Memory.md",
     "cpe-51/A review of bicycle-sharing service planning problems.md",
     "test",
     "cpe-51/The last mile matters Impact of dockless bike-sharing services on traffic congestion.md",

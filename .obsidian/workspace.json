@@ -13,11 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cpe-47/External Memory.md",
+                "file": "cpe-51/GreenBicycling-A-Smartphone-based-Public-Bicycle-Sharing-System-for-Healthy-Life.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "GreenBicycling-A-Smartphone-based-Public-Bicycle-Sharing-System-for-Healthy-Life"
             }
           }
         ]
@@ -40,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -55,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,14 +69,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 382.5
   },
   "right": {
     "id": "a9f2061c9df97363",
@@ -86,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cpe-47/External Memory.md",
+                "file": "cpe-51/GreenBicycling-A-Smartphone-based-Public-Bicycle-Sharing-System-for-Healthy-Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for GreenBicycling-A-Smartphone-based-Public-Bicycle-Sharing-System-for-Healthy-Life"
             }
           },
           {
@@ -103,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cpe-47/External Memory.md",
+                "file": "cpe-51/GreenBicycling-A-Smartphone-based-Public-Bicycle-Sharing-System-for-Healthy-Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from GreenBicycling-A-Smartphone-based-Public-Bicycle-Sharing-System-for-Healthy-Life"
             }
           },
           {
@@ -117,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,8 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cpe-47/External Memory.md"
-              }
+                "file": "cpe-51/GreenBicycling-A-Smartphone-based-Public-Bicycle-Sharing-System-for-Healthy-Life.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of GreenBicycling-A-Smartphone-based-Public-Bicycle-Sharing-System-for-Healthy-Life"
             }
           },
           {
@@ -135,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -159,12 +177,22 @@
   },
   "active": "2b4f17a81426900c",
   "lastOpenFiles": [
-    "cpe-47/cpe-47.md",
+    "cpe-51/rrl.md",
+    "cpe-51/GreenBicycling-A-Smartphone-based-Public-Bicycle-Sharing-System-for-Healthy-Life.md",
+    "cpe-51/cpe-51.md",
+    "cpe-45/H-bridge.md",
+    "cpe-45/DC Brushed Motor.md",
     "cpe-47/External Memory.md",
-    "cpe-47/Internal Memory.md",
+    "cpe-45/cpe-45.md",
+    "chs-2/Gospel of Mark.md",
     "chs-2/Jesus vs. Caesar.md",
-    "chs-2/jesus-v-caesar/JESUS VS. CAESAR- CHAPTER1-3/14-15.jpg",
+    "cpe-51/smart locks.md",
     "chs-2/chs-2.md",
+    "cpe-47/Internal Memory.md",
+    "cpe-47/Memory Hierarchy.md",
+    "cpe-47/Multicore Computer Structure.md",
+    "cpe-47/cpe-47.md",
+    "chs-2/jesus-v-caesar/JESUS VS. CAESAR- CHAPTER1-3/14-15.jpg",
     "cpe-53/even and odd signal.md",
     "cpe-53/cpe-53.md",
     "cpe-53/linear combination of signals.pdf",
@@ -180,30 +208,20 @@
     "cpe-47/Cache Memory.md",
     "cpe-47/Pasted image 20240926002714.png",
     "Pasted image 20240926005058.png",
-    "cpe-47/Multicore Computer Structure.md",
     "cpe-47/CPU.md",
     "cpe-47/Structures and Functions.md",
-    "cpe-47/Function.md",
-    "cpe-47/Memory Hierarchy.md",
-    "cpe-47/Program Concept.md",
-    "cpe-47/System Buses.md",
-    "IBM System/370 Architecture.md",
     "IBM System",
-    "cpe-51/A review of bicycle-sharing service planning problems.md",
     "test",
-    "cpe-51/The last mile matters Impact of dockless bike-sharing services on traffic congestion.md",
     "cpe-51/Bike Sharing System Diagram.drawio.png",
     "cpe-51/Bike Sharing System Diagram.drawio",
     "cpe-45/arduino.drawio",
     "cpe-45/arduino-diagram.png",
     "cpe-45/arduino uno r3.png",
-    "cpe-45/About Arduino Uno R3.md",
     "chs-2/jesus-v-caesar/JESUS VS. CAESAR- CHAPTER1-3/72.png",
     "chs-2/jesus-v-caesar/JESUS VS. CAESAR- CHAPTER1-3/70-71.png",
     "chs-2/jesus-v-caesar/JESUS VS. CAESAR- CHAPTER1-3/68-69.png",
     "chs-2/jesus-v-caesar/JESUS VS. CAESAR- CHAPTER1-3",
     "chs-2/jesus-v-caesar/JESUS VS. CAESAR- CHAPTER1-3-20240920T081742Z-001.zip",
-    "chs-2/jesus-v-caesar",
-    "cpe-51/bike-share-system.md"
+    "chs-2/jesus-v-caesar"
   ]
 }
